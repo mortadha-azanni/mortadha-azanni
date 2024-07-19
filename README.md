@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mortadha-azanni
+- 👋 Hi, I’m @mortadha-azanni and this is my profile mortadha.carrd.co
 - 👀 I’m interested in coding such as developing with python, web developing, drawing and designing
 - 🌱 I’m currently learning advanced web developing and advanced python coding
 - 💞️ I’m looking to collaborate on creating pages on web and projects with python
