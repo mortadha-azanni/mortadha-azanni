@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning advanced web developing and advanced python coding
 - 💞️ I’m looking to collaborate on creating pages on web and projects with python
 - 📫 How to reach me : on linkedin(mortadha azanni), gmail(mortadha2485@gmail.com), facebook(mortadha azanni), instagram(mortadha_a24) or here..
-- 😄 Pronouns: morr
+- 😄 Pronouns: morta
 - ⚡ Fun fact: i love eating!!
 
 <!---
